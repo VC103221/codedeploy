@@ -1,4 +1,4 @@
-**Question 1**: This snippet should print all the keys of the test dictionary. 
+**Question 1**: This snippet should print all the keys of the test dictionary as a list. 
 ```
 test_dict = {
   "one": "test",
